@@ -4,7 +4,7 @@
  ## scaffolding the project
 
 ```bash
-npx degit shreyassanthu77/typekong my-app
+npx degit shreyassanthu77/typekong#main my-app
 ```
 
  ## Steps to run this project:
